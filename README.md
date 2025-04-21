@@ -51,8 +51,3 @@ This kind of analysis is key in:
 
 ---
 
-## 👩🏽‍💻 About Me
-
-Hi! I’m Faith, a data enthusiast transitioning from the health sector into analytics. This project is part of my learning journey in SQL and data storytelling.
-
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-link/) or check out more projects on [GitHub](https://github.com/your-username)!
