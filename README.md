@@ -1,14 +1,14 @@
 # Prime Video Content Engagement Analysis
 
-🎯 **Objective:**  
+ **Objective:**  
 This project simulates SQL-based data analysis tasks performed by a Product Analyst on the Prime Video team. The focus is on evaluating viewer engagement across different content genres to guide strategic decisions in content acquisition and recommendation systems.
 
-🗃️ **Dataset (Simulated Table):**  
+ **Dataset (Simulated Table):**  
 `content_views_daily_agg` — A daily aggregated table where each row represents the number of views per content category on a given date.
 
 ---
 
-## 📌 SQL Queries
+## SQL Queries
 
 ### 1. [August 2024 - Aggregated Genre Views](./august-2024/genre_engagement_agg_views.sql)
 **Problem:**  
@@ -42,7 +42,7 @@ For categories with more than 500,000 total views in September, calculate total 
 
 ---
 
-## 📈 Why This Project Matters
+## Why This Project Matters
 
 This kind of analysis is key in:
 - Prioritizing content investment
